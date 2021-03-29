@@ -1,2 +1,2 @@
 # melon-squad
-A tribute to melon
+A tribute to melon squad.
